@@ -7,6 +7,9 @@ export default function Home() {
         <Link href={"/designs/FlipButton"}>FlipButton</Link>
         <br />
         <Link href={"/designs/DropdownMenu"}>DropdownMenu</Link>
+        <br />
+        <Link href={"/designs/AnimatedCubes"}>AnimatedCubes</Link>
+        <br />
       </div>
     </>
   );
