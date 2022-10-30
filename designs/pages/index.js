@@ -5,6 +5,8 @@ export default function Home() {
     <>
       <div>
         <Link href={"/designs/FlipButton"}>FlipButton</Link>
+        <br />
+        <Link href={"/designs/DropdownMenu"}>DropdownMenu</Link>
       </div>
     </>
   );
