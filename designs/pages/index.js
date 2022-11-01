@@ -10,6 +10,7 @@ export default function Home() {
         <br />
         <Link href={"/designs/AnimatedCubes"}>AnimatedCubes</Link>
         <br />
+        <Link href={"/designs/NavigationBar"}>NavigationBar</Link>
       </div>
     </>
   );
