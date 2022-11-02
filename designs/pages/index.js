@@ -11,6 +11,8 @@ export default function Home() {
         <Link href={"/designs/AnimatedCubes"}>AnimatedCubes</Link>
         <br />
         <Link href={"/designs/NavigationBar"}>NavigationBar</Link>
+        <br />
+        <Link href={"/designs/NavigationMenu"}>NavigationMenu</Link>
       </div>
     </>
   );
