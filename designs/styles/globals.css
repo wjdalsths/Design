@@ -24,3 +24,8 @@ a {
     background: black;
   }
 }
+
+:root {
+  --clr: #20415c;
+  --clr2: #222327;
+}
