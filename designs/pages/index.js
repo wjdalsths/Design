@@ -17,6 +17,8 @@ export default function Home() {
         <Link href={"/designs/SwipeButton"}>SwipeButton</Link>
         <br />
         <Link href={"/designs/ChangeBackground"}>ChangeBackground</Link>
+        <br />
+        <Link href={"/designs/Graph"}>Graph</Link>
       </div>
     </>
   );
